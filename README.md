@@ -58,23 +58,32 @@ I added an **SK6812MINI** to the board. It's small and easy to use for displayin
 
 There is one small button for general use in code.
 
+
+## Pinout
+
+Next to every pin, the name of the pin is shown on both the top and bottom sides of the PCB.
+
+> **!** On the top side, the pins are labeled without the **"P"** prefix.
+
+
+
 ## Board
 
-### Schematic
+  ### Schematic
 
-I tried to make the schematic as clean as possible.
+  I tried to make the schematic as clean as possible.
 
-<img src="assets/schematic.png" alt="schematic" width="500"/>
+  <img src="assets/schematic.png" alt="schematic" width="500"/>
 
-### PCB
+  ### PCB
 
-**Top**
+  **Top**
 
-<img src="assets/top.png" alt="top" width="500"/>
+  <img src="assets/top.png" alt="top" width="500"/>
 
-**Bottom**
+  **Bottom**
 
-<img src="assets/bottom.png" alt="bottom" width="500"/>
+  <img src="assets/bottom.png" alt="bottom" width="500"/>
 
 ## Why I Made This
 
