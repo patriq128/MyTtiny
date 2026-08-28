@@ -69,7 +69,7 @@ One of the main reasons I made this board was for my own projects. However, I al
 
   For this project, I am using the bootloader provided by **[MegaTinyCore](https://github.com/SpenceKonde/megaTinyCore)**.
 
-  ### UART Programming
+  ### Uploading Programs
 
   Once the bootloader is installed, you can upload programs and use the serial monitor through the USB-C port connected to the **CH340N** USB-to-UART converter.
 
