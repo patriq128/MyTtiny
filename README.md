@@ -103,9 +103,9 @@ The name of every pin is printed on both the top and bottom sides of the PCB.
 
 ## Production
 
-The main purpose of this project is to get it manufactured. I plan to have it manufactured by **JLCPCB**, which will produce the PCBs and assemble the components for me.
+The main goal of this project is to have the board manufactured. I plan to have it manufactured by **JLCPCB**, which will manufacture the PCBs and assemble the components for me.
 
-In the `production` folder, you can find:
+In the [`production`](production/) folder, you can find:
 
 - **Gerber files**
 - **Pick-and-place file**
