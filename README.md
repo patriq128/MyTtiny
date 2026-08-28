@@ -65,7 +65,9 @@ Next to every pin, the name of the pin is shown on both the top and bottom sides
 
 > **!** On the top side, the pins are labeled without the **"P"** prefix.
 
+<img src="assets/pinout.png" alt="pinout" width="500"/>
 
+Official Pinout
 
 ## Board
 
